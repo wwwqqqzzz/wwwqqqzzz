@@ -1,0 +1,35 @@
+为了使GitHub个人资料README教程更加直观，建议添加以下截图：
+
+1. 创建同名仓库截图
+   - 文件名: create_repo.png
+   - 内容: 展示GitHub创建新仓库页面，输入与用户名相同的仓库名，并显示GitHub的特殊提示信息
+
+2. 初始化README.md文件截图
+   - 文件名: init_readme.png
+   - 内容: 展示创建README.md文件的界面或自动创建的初始README内容
+
+3. 个人资料README效果展示截图
+   - 文件名: profile_example.png
+   - 内容: 展示一个精美的GitHub个人资料README实际效果
+
+4. 添加徽章示例截图
+   - 文件名: badges_example.png
+   - 内容: 展示各种徽章在个人资料中的效果
+
+5. GitHub统计数据展示截图
+   - 文件名: stats_example.png
+   - 内容: 展示GitHub统计卡片在个人资料中的效果
+
+6. 技能图标展示截图
+   - 文件名: skills_example.png
+   - 内容: 展示技能图标在个人资料中的效果
+
+7. 社交媒体链接展示截图
+   - 文件名: social_example.png
+   - 内容: 展示社交媒体链接在个人资料中的效果
+
+8. 动态内容展示截图
+   - 文件名: dynamic_example.png
+   - 内容: 展示贪吃蛇贡献图等动态内容在个人资料中的效果
+
+这些截图可以从网络上搜索相关示例，或者从实际的GitHub个人资料中截取。添加这些截图后，需要在教程的相应位置引用这些图片。
